@@ -1,4 +1,4 @@
-package com.example.SpringLearning;
+package com.example.recipebook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

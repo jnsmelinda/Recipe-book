@@ -1,4 +1,4 @@
-package com.example.SpringLearning.model;
+package com.example.recipebook.model;
 
 import lombok.Value;
 

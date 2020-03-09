@@ -1,7 +1,7 @@
-package com.example.SpringLearning.controller;
+package com.example.recipebook.controller;
 
-import com.example.SpringLearning.model.Customer;
-import com.example.SpringLearning.repository.CustomerRepository;
+import com.example.recipebook.model.Customer;
+import com.example.recipebook.repository.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

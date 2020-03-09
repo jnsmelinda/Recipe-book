@@ -1,4 +1,4 @@
-package com.example.SpringLearning.controller;
+package com.example.recipebook.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.jdbc.core.JdbcTemplate;

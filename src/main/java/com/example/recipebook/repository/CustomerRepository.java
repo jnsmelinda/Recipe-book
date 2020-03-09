@@ -1,6 +1,6 @@
-package com.example.SpringLearning.repository;
+package com.example.recipebook.repository;
 
-import com.example.SpringLearning.model.Customer;
+import com.example.recipebook.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
